@@ -1,0 +1,6 @@
+employee id=15487
+employee name=adi
+employee contact=98989898
+employee department=54545
+the value of B=5454
+the value of nts=5836.307205456

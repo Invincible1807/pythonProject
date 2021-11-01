@@ -1,0 +1,6 @@
+the value of x=4
+the value of y=4
+the value of z=256
+the value of x=4
+the value of y=2
+the value of z=16

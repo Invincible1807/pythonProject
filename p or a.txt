@@ -1,0 +1,5 @@
+the value of l=5.0
+the value of b=5.0
+the value of p=20.0
+the value of a=25.0
+the value of a is greater than pTrue

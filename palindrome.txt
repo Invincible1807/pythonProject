@@ -1,0 +1,4 @@
+the value of n=969
+the value of t=969
+the value of r=0
+The number is a palindrome!

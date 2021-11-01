@@ -1,0 +1,2 @@
+the value of n=11
+11is a prime number

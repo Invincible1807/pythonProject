@@ -1,0 +1,3 @@
+the value of a=[]
+the value of b=[]
+c=21the triangle is invalid

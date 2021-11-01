@@ -1,0 +1,2 @@
+the value of num=4
+Average of 4 numbers is=4.0

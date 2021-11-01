@@ -1,0 +1,7 @@
+the value of a=0
+the value of b=1
+the value of n=4
+the lucas value=1
+the lucas value=1
+the lucas value=2
+the lucas value=3

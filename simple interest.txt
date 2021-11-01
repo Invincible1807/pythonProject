@@ -1,0 +1,5 @@
+the value of p=10.0
+the value of r=10.0
+the value of t=10.0
+the value of n=10.0
+the value of si=27.048138294215285
