@@ -66,17 +66,7 @@
 # else:
 #     print("The number isn't a palindrome!")
 
-# num=153
-# sum=0
-# temp=num
-# while temp > 0:
-#     digit = temp % 10
-#     sum += digit**3
-#     temp//=10
-# if(num==sum):
-#     print(num,"is an armstrong number")
-# else:
-#     print(num,"is not an armstrong number")
+
 
 # x= 1
 # print(x>>4)
@@ -103,7 +93,7 @@
 #     return b
 # n = int(input("enter the value of n:"))
 # print(lucas(n))
-#
+
 # def fibonacci(n):
 #     a = 0
 #     b = 1
@@ -115,4 +105,12 @@
 #         b = c
 #     return b
 # n = int(input("enter the value of n:"))
-# print(fibonacci(n))
+# print()
+
+# def fib(n):
+#     a, b = 0, 1
+#     while a < n:
+#         print(a, end=' ')
+#         a, b = b, a+b
+#     print()
+# fib(1000)
